@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "posters",
+			"path": "../posters"
+		},
+		{
+			"name": "pàgina principal",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5502,
+		"liveServer.settings.multiRootWorkspaceName": "pàgina principal"
+	}
+}
